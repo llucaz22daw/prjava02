@@ -1,0 +1,23 @@
+Instruccions
+1. git branch branca00
+   git checkout branca00
+   git status
+   
+5. git checkout main
+   git status
+   git log
+   
+7. git checkout branca00
+   geany Prjava02.java
+   
+10. git merge branca00
+
+12. git push -u origin main
+
+14. git push -u origin branca01
+
+Respostes
+6. No es pot veure l'última línia afegida perquè s'ha afegit a branca00 i ara estem a la branca main.
+7. Sí es pot veure l'última línia perquè els canvis es van fer a branca00 i estem a la branca00.
+12c. S'ha actualitzat només la branca main perquè em fet el push sobre la branca main i no sobre l'altre branca.
+14c. Està a 1 commit.
